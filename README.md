@@ -1,0 +1,2 @@
+# Machine-Learning-Based-Fraud-Detection-System-for-the-Healthcare-Sector
+This project aims to develop an effective health sector fraud detection system using machine learning algorithms. The anti-fraud engine needs to keep a tab on the anomalies and dubious trends that emanate from claims data, healthcare provider billing patterns, patient history, and other variables indicative or predictive of fraud.
